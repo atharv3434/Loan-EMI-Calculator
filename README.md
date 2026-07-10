@@ -1,4 +1,4 @@
-# Loan & EMI Calculator — Full Stack (Python + React)
+# Loan & EMI Calculator — Full Stack 
 
 A full-featured loan calculator web app with amortization schedules, 
 prepayment analysis, loan comparison, and interactive charts.
