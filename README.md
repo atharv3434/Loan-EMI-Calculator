@@ -54,7 +54,7 @@ uvicorn main:app --reload --port 8000
 ```bash
 cd frontend
 npm install
-npm run dev        # Vite dev server → http://localhost:5173
+npm run dev        
 ```
 
 ### Tests
